@@ -1,17 +1,17 @@
 {
   "subtitle": " Find out which of your habits are good for you\u2026", 
-  "description": "", 
+  "description": " Find out which of your habits are good for you\u2026", 
   "language": "eng_GB", 
   "title": "How healthy are you?", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
   "created_at": "2015-12-02T20:53:27+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-04T07:59:30.463983+00:00", 
+  "modified_at": "2015-12-04T08:01:24.212893+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
