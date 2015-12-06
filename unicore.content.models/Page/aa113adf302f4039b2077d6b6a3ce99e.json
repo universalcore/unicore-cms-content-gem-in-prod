@@ -1,17 +1,17 @@
 {
   "subtitle": " When you do it together, it\u2019s more fun\u2026 and you\u2019ll have more money", 
-  "description": "", 
+  "description": " When you do it together, it\u2019s more fun\u2026 and you\u2019ll have more money", 
   "language": "eng_GB", 
   "title": " How to save with a friend! ", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2015-12-02T19:52:23.871848+00:00", 
+  "created_at": "2015-12-02T19:52:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-12-02T19:52:23.872063+00:00", 
+  "modified_at": "2015-12-06T16:28:19.263057+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-save-friend", 
   "uuid": "aa113adf302f4039b2077d6b6a3ce99e"
