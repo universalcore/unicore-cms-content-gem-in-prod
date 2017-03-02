@@ -6,12 +6,12 @@
   "primary_category": "53112726cb754aeabc9d7170d3a17037", 
   "created_at": "2015-12-30T12:14:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-01-11T17:19:00.193947+00:00", 
+  "modified_at": "2017-03-02T11:08:21.921020+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 10, 
+  "position": 20, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "healthy-food-rulz", 
   "uuid": "0525be4402894ce691a0e74657a73b63"
